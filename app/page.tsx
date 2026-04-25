@@ -18,7 +18,7 @@ export default function Home() {
         <Skills />
         <Progress />
         <Education />
-        <MLExperience />
+        {/* <MLExperience /> */}
         <Contacts />
         <Footer />
       </main>
