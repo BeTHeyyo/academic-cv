@@ -8,7 +8,7 @@ const contacts = [
 export default function Contacts() {
   return (
     <section id="contacts" className="mb-20 fade-up delay-6">
-      <SectionHeader num="05" title="Контакты" />
+      <SectionHeader num="06" title="Контакты" />
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
         {contacts.map((c) => (
           <div

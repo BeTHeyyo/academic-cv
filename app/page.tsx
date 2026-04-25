@@ -6,6 +6,7 @@ import Progress from "@/components/Progress";
 import Education from "@/components/Education";
 import Contacts from "@/components/Contacts";
 import Footer from "@/components/Footer";
+import MLExperience from "@/components/MlExperience";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
         <Skills />
         <Progress />
         <Education />
+        <MLExperience />
         <Contacts />
         <Footer />
       </main>
